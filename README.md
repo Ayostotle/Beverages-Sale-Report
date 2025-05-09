@@ -63,7 +63,7 @@ Total revenue generated is 8.20 million dollars, with the highest earnings in De
 A total of 16.45 million units were sold at an average price of 0.5 dollars per unit.
 Revenue distribution is strongest in the eastern and central United States, based on the map.
 
-    ### Recommendation
+ ### Recommendation
 
 Based on the analysis , we recommend the following actions:
 - Focus marketing and sales efforts on December and July to further capitalize on peak revenue periods.
