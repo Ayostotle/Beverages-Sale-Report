@@ -52,8 +52,8 @@ Here are 5 key questions this Power BI project aims to answer:
   ### Data Analysis
 
   Include somes interesting code/feautes worked with
-Using Dax functions
-Navigation the power query ribbion
+   - Using Dax functions
+  - Navigation the power query ribbion
 
 
   ### Results/Findings
@@ -66,9 +66,9 @@ Revenue distribution is strongest in the eastern and central United States, base
     ### Recommendation
 
 Based on the analysis , we recommend the following actions:
-   Focus marketing and sales efforts on December and July to further capitalize on peak revenue periods.
-Explore slight price adjustments or bundle strategies to increase revenue without reducing unit sales.
-Strengthen distribution and promotions in underperforming western regions to balance geographic sales coverage.
+- Focus marketing and sales efforts on December and July to further capitalize on peak revenue periods.
+- Explore slight price adjustments or bundle strategies to increase revenue without reducing unit sales.
+- Strengthen distribution and promotions in underperforming western regions to balance geographic sales coverage.
 
 ### Limitation
 
